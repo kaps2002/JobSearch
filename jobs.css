@@ -29,7 +29,8 @@ body{
     text-align: center;
     text-decoration: none;
     font-size: 22px;
-    font-family: 'Merriweather Sans', sans-serif
+    font-family: 'Merriweather Sans', sans-serif;
+    transition: 0.3s;
 }
 #content:hover{
     color: white;
