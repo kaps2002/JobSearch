@@ -1,0 +1,117 @@
+body{
+    background-image: url("photo.png");
+    background-size: 1300px;
+    margin-left: 0px;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    overflow: hidden;
+}
+.navbar{
+    background-color: rgba(12, 12, 12, 0.281);
+    padding: 5px;
+}
+.jobsearch,.pen{
+    float: left;
+    color: #530592ef;
+    text-align: left;
+    text-decoration: none;
+    font-size: 26px;
+    font-family: 'Indie Flower', cursive;
+    font-weight: bolder;
+}
+.cont{
+    text-align: right;
+    word-spacing: 10px;
+}
+.jobsearch:hover{
+    font-weight: bolder;
+}
+#content{
+    font-weight: bolder;
+    color: #066e20ef;
+    text-align: center;
+    text-decoration: none;
+    font-size: 22px;
+    font-family: 'Merriweather Sans', sans-serif;
+    transition: 0.3s;
+}
+#content:hover{
+    color: white;
+    background:rgba(238, 237, 237, 0.466);
+    padding:10px 5px 15px 5px;
+}
+.btn{
+    width: 90px;
+    height: 40px;
+    background-color: rgb(3, 112, 12);
+    color: lavender;
+    border-radius: 7px;
+    border-color: black;
+    border-width: 2px;
+    cursor: pointer;
+}
+.btn:hover{
+    font-weight: bold;
+}
+.title{
+    margin-top: 6%;
+    margin-left: 7%;
+    font-family: 'Playfair Display', serif; 
+    font-size: 60px;
+}
+.intro{
+    font-size: 20px;
+    margin-left: 7%;
+    font-family: 'Yellowtail', cursive;
+}
+#email{
+    margin-left: 7%;
+    width: 250px;
+    height: 25px;
+    border-radius: 6px;
+    border-color: black;
+}
+#submit{
+    margin-left: 7%;
+    width: 260px;
+    height: 30px;
+    background-color: rgb(3, 112, 12);
+    color: white;
+    border-radius: 6px;
+    border-color: black;
+    border-style: groove;
+    border-width: 2px;
+    cursor: pointer;
+}
+.endpara{
+    margin-left: 7%;
+    font-size: 15px;
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+}
+.endlink{
+    color:rgb(4, 94, 11);;
+}
+.underline1{
+    border-top: 3px groove black;
+    margin-top: 0px;
+}
+.logos{
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.89);
+    padding-bottom: 1px;
+}
+.icon{
+    word-spacing: 50px;
+    margin-top: 13px;
+    padding-bottom: 3px;
+}
+.footpara{
+    font-size: 15px ;
+    word-spacing:0px;
+    color: white;
+}
+::-webkit-scrollbar-thumb{
+    color: black;
+}
