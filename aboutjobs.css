@@ -1,0 +1,184 @@
+body{
+    background-image: url("space.jpg");
+    background-size: cover;
+    margin-left: 0px;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+}
+.navbar{
+    background-color: rgba(82, 82, 82, 0.171);
+    padding: 5px;
+    overflow: hidden;
+    display: block;
+}
+.jobsearch,.pen{
+
+    float: left;
+    color: #530592ef;
+    text-align: left;
+    text-decoration: none;
+    font-size: 26px;
+    font-family: 'Indie Flower', cursive;
+    font-weight: bolder;
+}
+.cont{
+    display: block;
+    text-align: right;
+    word-spacing: 10px;
+}
+#content{
+    font-weight: bolder;
+    color: #045518ef;
+    text-align: center;
+    text-decoration: none;
+    font-size: 22px;
+    font-family: 'Merriweather Sans', sans-serif;
+    transition: 0.3s;
+}
+#content:hover{
+    color: white;
+    background:rgba(238, 237, 237, 0.466);
+    padding:10px 5px 15px 5px;
+}
+.btn{
+    width: 90px;
+    height: 40px;
+    background-color: rgb(3, 112, 12);
+    color: lavender;
+    border-radius: 7px;
+    border-color: black;
+    border-width: 2px;
+    cursor: pointer;
+}
+.btn:hover{
+    font-weight: bold;
+}
+.jobsearch:hover{
+    font-weight: bolder;
+}
+.quote{
+    text-align: center;
+    color: white;
+    background-color: rgba(109, 109, 109, 0.151);
+    padding: 3% 0 3% 0;
+}
+.vision{
+    margin-top: -6px;
+    font-weight: bold;
+    font-size: 60px;
+    font-family: 'Rampart One', cursive;
+}
+.vision-sent{
+    margin-top: -25px;
+    font-size: 20px;
+    word-spacing: 8px;
+}
+.mission{
+    margin-top: -6px;
+    font-weight: bold;
+    font-size: 60px;
+    font-family: 'Rampart One', cursive;
+}
+.mission-sent{
+    word-spacing: 8px;
+    font-size: 20px;
+    margin-top: -25px;
+}
+.team{
+    font-size: 80px;
+    color: rgb(30, 162, 214);
+    text-align: center;
+    margin-top: 16px;
+    font-weight: bold;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.members{
+    background-color: rgba(255, 255, 255, 0.781);
+    padding: 5px 0 40px 0;
+}
+.flexs{
+    display: flex;
+}
+.card{
+    margin-top: -30px;
+    margin-left: auto;
+    margin-right: auto; 
+    border: 2px black groove;
+    border-radius: 8px;
+    box-shadow: 7px 7px 7px 5px rgb(173, 173, 173);
+    transition: 0.2s;
+}
+.container{
+    color: black; 
+}
+.tpic{
+    border-radius: 6px;
+    width: 180px;
+    height: 180px;
+}
+.name,.intro{
+    text-align: center;
+}
+.card:hover{
+    box-shadow: 8px 9px 8px 5px rgb(130, 130, 130);
+}
+/*.underline{
+    border-top: 4px groove black;
+    margin-top: 0px;
+
+}
+.about{
+    margin-top: -34.6px;
+    background-color: lavender;
+    box-shadow: 10px 10px 10px rgba(131, 129, 129, 0.712);
+}
+.aboutheading{
+    padding-right: 20px;
+    padding-left: 20px;
+    text-align: center;
+    line-height:60px;
+    font-size: 40px;
+    font-family:sans-serif;
+    font-weight:bolder;
+    color: #11e746ec;
+    background-color: rgba(233, 104, 95, 0.89);
+    text-shadow: 0 0 3px #0a0a0ae8, 0 0 5px #0000ffd8;
+}
+.aboutpara{
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: justify;
+    background-color: rgba(233, 104, 95, 0.89);    
+    line-height: 30px;
+    margin-top: -33px;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    font-size:20px;
+    font-family: 'Bangers', cursive;
+}
+.jk{
+    margin-top: -200px;
+    margin-left: 58%;
+    box-shadow: 4px 4px 4px 4px rgba(255, 0, 0, 0.842);
+} */
+.logos{
+    margin-top: -20px;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.89);
+    padding-bottom: 1px;
+}
+.icon{
+    word-spacing: 50px;
+    margin-top: 13px;
+    padding-bottom: 3px;
+}
+.footpara{
+    font-size: 15px ;
+    word-spacing:0px;
+    color: white;
+}
+
+
+
+

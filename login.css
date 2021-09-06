@@ -1,0 +1,190 @@
+body{
+    background-image:linear-gradient( rgba(255, 255, 255, 0.63), rgba(247, 187, 110, 0.534)),url('bg2.png');
+    background-size: 1300px;
+    margin-left: 0px;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    justify-content: center;
+}
+.navbar{
+    background-color: rgba(41, 40, 40, 0.349);
+    padding: 5px;
+}
+.underline1{
+    border-top: 3px groove black;
+    margin-top: 0px;
+}
+.jobsearch,.pen{
+    float: left;
+    color: #530592ef;
+    text-align: left;
+    text-decoration: none;
+    font-size: 26px;
+    font-family: 'Indie Flower', cursive;
+    font-weight: bolder;
+}
+.cont{
+    text-align: right;
+    word-spacing: 10px;
+}
+#content{
+    font-weight: bolder;
+    color: #045518ef;
+    text-align: center;
+    text-decoration: none;
+    font-size: 22px;
+    font-family: 'Merriweather Sans', sans-serif;
+    transition: 0.3s;
+}
+#content:hover{
+    color: white;
+    background:rgba(238, 237, 237, 0.466);
+    padding: 10px 5px 15px 5px;
+}
+.jobsearch:hover{
+    font-weight: bolder;
+}
+.btn{
+    width: 90px;
+    height: 40px;
+    background-color: rgb(3, 112, 12);
+    color: lavender;
+    border-radius: 7px;
+    border-color: black;
+    border-width: 2px;
+    cursor: pointer;
+}
+.btn:hover{
+    font-weight: bold;
+}
+.forms{
+    background-color: rgba(179, 179, 177, 0.329);
+    margin-top: 3%;
+    margin-left: 22%;
+    margin-right: 22%;
+    padding-left: 8.5%;
+    padding-top: 4.5%;
+    padding-bottom:4%;
+    border-radius: 8px;
+}
+.form-header{
+    border-radius: 10px;
+    background-image: url("form-back.png");
+    background-size: 600px;
+    padding-bottom: 8%;
+    padding-left: 6%;
+    margin-right: 12.5%;
+    margin-left: -15px;
+    padding-top: 15%;
+    box-shadow: 8px 10px 8px rgba(236, 236, 236, 0.815) ;
+    align-items: center;
+}
+.create{
+    color: rgba(253, 0, 0, 0.808);
+    margin-top: -55px;
+    padding-left: 19px;
+    font-size: 30px;
+    font-weight: bold;
+    font-family:  Times New Roman, 'Times', serif;
+}
+.l{
+    padding-left: 60px;
+    word-spacing: 16px;
+    
+}
+.gmail,.face,.twitter{
+    transition: 0.5s;
+}
+.gmail:hover,.face:hover,.twitter:hover{
+    width: 20px;
+    height: 20px;
+}
+.line{
+    color: rgb(99, 99, 99);
+}
+.form-fill{
+    line-height: 45px;
+    padding-left: 0px;
+}
+#name,#email,#password{
+    border:black 2px groove;
+    border-radius:5px ;
+    width: 38%;
+    height: 20px;
+    background-color: rgba(221, 220, 220, 0.712);
+}
+#name:hover,#email:hover,#password:hover{
+    background-color: rgba(255, 255, 255, 0.856);
+}
+.button{
+    padding-left: 4%;
+    word-spacing: 18px;
+}
+.btn1{
+    width: 95px;
+    height: 37px;
+    /* background-color: white; */
+    margin-left: -12px;
+    word-spacing: 15px;
+    text-align:center;
+    color: rgb(0, 0, 0);
+    border: 2px rgb(0, 0, 0) groove;
+    border-radius:25px;
+    background: transparent;
+    position: relative;
+    overflow: hidden;
+    cursor: pointer;
+    transition: 0.5s;
+}
+.btn1:hover{
+    background-color: rgba(245, 228, 75, 0.822);
+    color: rgb(207, 80, 80);
+    font-weight: bold;
+}
+.btn2{
+    width: 95px;
+    height: 37px;
+    background-color: green;
+    margin-left: -12px;
+    word-spacing: 15px;
+    text-align:center;
+    color: rgb(0, 0, 0);
+    border: 2px rgb(0, 0, 0) groove;
+    border-radius:25px;
+    position: relative;
+    overflow: hidden;
+    cursor: pointer;
+}
+.btn2:hover{
+    font-weight: bold;
+}
+::placeholder{
+    color: rgba(36, 36, 36, 0.85);
+    font-weight: lighter;
+    font-size: 12px;
+}
+#agree{
+    width: 15px;
+    height: 15px;
+}  
+/* .underline1{
+    border-top: 3px groove black;
+    margin-top: 0px;
+}
+.logos{
+    margin-bottom: 2%;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.89);
+    padding-bottom: 1px;
+}
+.icon{
+    word-spacing: 50px;
+    margin-top: 13px;
+    padding-bottom: 3px;
+}
+.footpara{
+    font-size: 15px ;
+    word-spacing:0px;
+    color: white;
+} */
