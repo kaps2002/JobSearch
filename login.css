@@ -121,6 +121,9 @@ body{
     border-radius: 2px ;
     background-color: transparent;
 }
+input:focus::-webkit-input-placeholder{
+    opacity: 0;
+}
 .button{
     padding-left: 4%;
     word-spacing: 18px;
